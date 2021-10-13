@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634131802 source:c:\users\pavan\desktop\learning c\data structure and algo\programs\student info in linked list\main.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
